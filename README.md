@@ -1,3 +1,27 @@
+# How to use
+
+It's quite simple, you just need to write the task name and clicking in "Adicionar" button, you can also see the task details and remove them by clicking on the respective icons.
+
+# Overview
+### `Home`
+
+  <img  src="https://user-images.githubusercontent.com/71186310/147864335-83336c53-9556-44d0-99ef-15673eba87d4.png">
+  
+### `Writing the task name`
+
+  <img  src="https://user-images.githubusercontent.com/71186310/147864337-1377bcbc-0472-43bf-b0c1-29095f7b60e0.png">
+  
+### `Added task`
+
+  <img  src="https://user-images.githubusercontent.com/71186310/147864338-90c5b878-82df-44fc-a7f0-6e9c444d580b.png">
+  
+### `Task details`
+  <img  src="https://user-images.githubusercontent.com/71186310/147864340-9a9858c4-a0fc-4ba0-bfd7-73890c88e670.png">
+  
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
